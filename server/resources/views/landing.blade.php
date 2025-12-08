@@ -12,7 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="{{ asset('user-uploads/logo/c67779a04b29a457d1a2827ac2db136f.png') }}">
+    <meta name="msapplication-TileImage" content="{{ asset('user-uploads/logo/logo.png') }}">
     <title>Dishstack</title>
 
     <link rel="preload" as="style" href="{{ asset('build/assets/app-cATFq14i.css') }}" />
@@ -297,7 +297,7 @@
             <nav class="bg-white border-gray-200 px-4 py-2.5 dark:bg-gray-900 dark:text-gray">
                 <div class="flex flex-wrap justify-between items-center mx-auto">
                     <a href="/" class="flex items-center gap-1">
-                        <img src="{{ asset('user-uploads/logo/c67779a04b29a457d1a2827ac2db136f.png') }}" class="ltr:mr-3 rtl:ml-3 h-6 sm:h-9"
+                        <img src="{{ asset('user-uploads/logo/logo.png') }}" class="ltr:mr-3 rtl:ml-3 h-6 sm:h-9"
                             alt="App Logo" />
                     </a>
                     <div class="flex items-center">
@@ -347,7 +347,7 @@
             <nav class="bg-white dark:bg-gray-900 px-4 lg:px-6 py-2.5">
                 <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <a href="/" class="flex items-center gap-1">
-                        <img src="{{ asset('user-uploads/logo/c67779a04b29a457d1a2827ac2db136f.png') }}" class="ltr:mr-3 rtl:ml-3 h-6 sm:h-9"
+                        <img src="{{ asset('user-uploads/logo/logo.png') }}" class="ltr:mr-3 rtl:ml-3 h-6 sm:h-9"
                             alt="App Logo" />
                     </a>
                     <div class="flex items-center lg:order-2">
