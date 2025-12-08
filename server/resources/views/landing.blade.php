@@ -15,8 +15,8 @@
     <meta name="msapplication-TileImage" content="{{ asset('user-uploads/logo/c67779a04b29a457d1a2827ac2db136f.png') }}">
     <title>Dishstack</title>
 
-    <link rel="preload" as="style" href="https://raw.githubusercontent.com/Antalyayuan/Dishstack-Landing-Page/main/server/public/build/assets/app-cATFq14i.css" />
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/Antalyayuan/Dishstack-Landing-Page/main/server/public/build/assets/app-cATFq14i.css" data-navigate-track="reload" />
+    <link rel="preload" as="style" href="{{ asset('build/assets/app-cATFq14i.css') }}" />
+    <link rel="stylesheet" href="{{ asset('build/assets/app-cATFq14i.css') }}" data-navigate-track="reload" />
     <style>
         [wire\:loading][wire\:loading],
         [wire\:loading\.delay][wire\:loading\.delay],
@@ -286,7 +286,7 @@
 
             const mod = document.createElement('script');
             mod.type = 'module';
-            mod.src = "https://raw.githubusercontent.com/Antalyayuan/Dishstack-Landing-Page/main/server/public/build/assets/app-Cc8I8P8i.js";
+            mod.src = "{{ asset('build/assets/app-Cc8I8P8i.js') }}";
             mod.dataset.navigateTrack = 'reload';
             document.head.appendChild(mod);
         })();
