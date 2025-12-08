@@ -297,7 +297,7 @@
             <nav class="bg-white border-gray-200 px-4 py-2.5 dark:bg-gray-900 dark:text-gray">
                 <div class="flex flex-wrap justify-between items-center mx-auto">
                     <a href="/" class="flex items-center gap-1">
-                        <img src="{{ asset('user-uploads/logo/logo.png') }}" class="ltr:mr-3 rtl:ml-3 h-6 sm:h-9"
+                        <img src="{{ asset('user-uploads/logo/logo.png') }}" class="ltr:mr-3 rtl:ml-3 h-10 sm:h-12"
                             alt="App Logo" />
                     </a>
                     <div class="flex items-center">
@@ -347,7 +347,7 @@
             <nav class="bg-white dark:bg-gray-900 px-4 lg:px-6 py-2.5">
                 <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <a href="/" class="flex items-center gap-1">
-                        <img src="{{ asset('user-uploads/logo/logo.png') }}" class="ltr:mr-3 rtl:ml-3 h-6 sm:h-9"
+                        <img src="{{ asset('user-uploads/logo/logo.png') }}" class="ltr:mr-3 rtl:ml-3 h-10 sm:h-12"
                             alt="App Logo" />
                     </a>
                     <div class="flex items-center lg:order-2">
