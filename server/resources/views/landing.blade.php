@@ -706,12 +706,18 @@
                             </em></p>
                     </div>
                     <div class="p-4 rounded-b-xl md:px-6">
-                        <h3 class="text-sm font-semibold text-gray-800 sm:text-base dark:text-white">
-                            John Martin
-                        </h3>
-                        <p class="text-sm text-gray-500 dark:text-neutral-500">
-                            Owner of Riverbend Bistro
-                        </p>
+                        <div class="flex items-center gap-3">
+                            <img src="https://i.pravatar.cc/80?img=47" alt="Photo of John Martin"
+                                class="size-12 rounded-full object-cover border border-gray-200 dark:border-neutral-700">
+                            <div>
+                                <h3 class="text-sm font-semibold text-gray-800 sm:text-base dark:text-white">
+                                    John Martin
+                                </h3>
+                                <p class="text-sm text-gray-500 dark:text-neutral-500">
+                                    Owner of Riverbend Bistro
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div
@@ -722,12 +728,18 @@
                             </em></p>
                     </div>
                     <div class="p-4 rounded-b-xl md:px-6">
-                        <h3 class="text-sm font-semibold text-gray-800 sm:text-base dark:text-white">
-                            Emily Thompson
-                        </h3>
-                        <p class="text-sm text-gray-500 dark:text-neutral-500">
-                            Manager at Lakeside Grill
-                        </p>
+                        <div class="flex items-center gap-3">
+                            <img src="https://i.pravatar.cc/80?img=32" alt="Photo of Emily Thompson"
+                                class="size-12 rounded-full object-cover border border-gray-200 dark:border-neutral-700">
+                            <div>
+                                <h3 class="text-sm font-semibold text-gray-800 sm:text-base dark:text-white">
+                                    Emily Thompson
+                                </h3>
+                                <p class="text-sm text-gray-500 dark:text-neutral-500">
+                                    Manager at Lakeside Grill
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div
@@ -738,12 +750,18 @@
                             </em></p>
                     </div>
                     <div class="p-4 rounded-b-xl md:px-6">
-                        <h3 class="text-sm font-semibold text-gray-800 sm:text-base dark:text-white">
-                            Michael Scott
-                        </h3>
-                        <p class="text-sm text-gray-500 dark:text-neutral-500">
-                            Owner of Downtown Eats
-                        </p>
+                        <div class="flex items-center gap-3">
+                            <img src="https://i.pravatar.cc/80?img=15" alt="Photo of Michael Scott"
+                                class="size-12 rounded-full object-cover border border-gray-200 dark:border-neutral-700">
+                            <div>
+                                <h3 class="text-sm font-semibold text-gray-800 sm:text-base dark:text-white">
+                                    Michael Scott
+                                </h3>
+                                <p class="text-sm text-gray-500 dark:text-neutral-500">
+                                    Owner of Downtown Eats
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
