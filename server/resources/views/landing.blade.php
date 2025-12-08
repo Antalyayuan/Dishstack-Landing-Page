@@ -707,7 +707,7 @@
                     </div>
                     <div class="p-4 rounded-b-xl md:px-6">
                         <div class="flex items-center gap-3">
-                            <img src="https://i.pravatar.cc/80?img=47" alt="Photo of John Martin"
+                            <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Photo of John Martin"
                                 class="size-12 rounded-full object-cover border border-gray-200 dark:border-neutral-700">
                             <div>
                                 <h3 class="text-sm font-semibold text-gray-800 sm:text-base dark:text-white">
@@ -729,7 +729,7 @@
                     </div>
                     <div class="p-4 rounded-b-xl md:px-6">
                         <div class="flex items-center gap-3">
-                            <img src="https://i.pravatar.cc/80?img=32" alt="Photo of Emily Thompson"
+                            <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="Photo of Emily Thompson"
                                 class="size-12 rounded-full object-cover border border-gray-200 dark:border-neutral-700">
                             <div>
                                 <h3 class="text-sm font-semibold text-gray-800 sm:text-base dark:text-white">
@@ -751,7 +751,7 @@
                     </div>
                     <div class="p-4 rounded-b-xl md:px-6">
                         <div class="flex items-center gap-3">
-                            <img src="https://i.pravatar.cc/80?img=15" alt="Photo of Michael Scott"
+                            <img src="https://randomuser.me/api/portraits/men/56.jpg" alt="Photo of Michael Scott"
                                 class="size-12 rounded-full object-cover border border-gray-200 dark:border-neutral-700">
                             <div>
                                 <h3 class="text-sm font-semibold text-gray-800 sm:text-base dark:text-white">
